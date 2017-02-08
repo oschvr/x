@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# x
+Rails 5 + React (CoffeeScript) Webapp.
+>>>>>>> 59211c61f3fb3153f834e320f1ef69e0eac0c711
